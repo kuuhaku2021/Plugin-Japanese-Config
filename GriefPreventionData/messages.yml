@@ -1,8 +1,8 @@
 Messages:
   RespectingClaims:
-    Text: Now respecting claims.
+    Text: 債権を尊重する。
   IgnoringClaims:
-    Text: Now ignoring claims.
+    Text: 債権を無視する。
   SuccessfulAbandon:
     Text: $7保護を削除しました。$e{0}$7ブロックの保護が可能です。
     Notes: '0: remaining blocks'
@@ -14,21 +14,21 @@ Messages:
       to keep!  Right click to aggressively restore nature, and use /BasicClaims to
       stop.
   FillModeActive:
-    Text: Fill mode activated with radius {0}.  Right click an area to fill.
+    Text: 半径{0}で塗りつぶしモードが有効になります。 塗りつぶす領域を右クリックします。
     Notes: '0: fill radius'
   TransferClaimPermission:
-    Text: That command requires the administrative claims permission.
+    Text: このコマンドには、管理者権限（administrative claims）が必要です。
   TransferClaimMissing:
-    Text: There's no claim here.  Stand in the administrative claim you want to transfer.
+    Text: ここに債権はありません。 譲渡したい行政請求権に立つ。
   TransferClaimAdminOnly:
-    Text: Only administrative claims may be transferred to a player.
+    Text: 管理債権のみプレーヤーに譲渡することができる。
   PlayerNotFound2:
-    Text: No player by that name has logged in recently.
+    Text: 最近、その名前のプレイヤーはログインしていない。
   TransferTopLevel:
     Text: Only top level claims (not subdivisions) may be transferred.  Stand outside
       of the subdivision and try again.
   TransferSuccess:
-    Text: Claim transferred.
+    Text: 債権譲渡
   TrustListNoClaim:
     Text: Stand inside the claim you're curious about.
   ClearPermsOwnerOnly:
